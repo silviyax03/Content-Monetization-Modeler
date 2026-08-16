@@ -597,23 +597,6 @@ The project successfully:
 
 ---
 
-# 🚀 Future Improvements
-
-Possible future enhancements include:
-
-- Hyperparameter tuning
-- Cross-validation
-- Additional regression algorithms
-- Advanced interactive visualizations
-- More detailed revenue trend analysis
-- Interactive filters on the Business Insights page
-- Automated model retraining
-- Cloud deployment
-- Model monitoring
-- Revenue forecasting
-
----
-
 # 👩‍💻 Author
 
 **Silviya X**
